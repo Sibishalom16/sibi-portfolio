@@ -41,4 +41,5 @@ next-env.d.ts
 # AI / local development instructions
 
 AGENTS.md
-CLAUDE.md.agents/
+CLAUDE.md
+
